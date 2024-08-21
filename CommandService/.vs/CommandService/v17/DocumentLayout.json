@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\source\\repos\\CommandService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|c:\\users\\drago\\source\\repos\\commandservice\\commandservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|c:\\users\\drago\\source\\repos\\commandservice\\commandservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|c:\\users\\drago\\source\\repos\\commandservice\\commandservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|c:\\users\\drago\\source\\repos\\commandservice\\commandservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|c:\\users\\drago\\source\\repos\\commandservice\\commandservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6FAD8AC-29CA-46DE-B761-252C9CBD11DA}|CommandService\\CommandService.csproj|solutionrelative:commandservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CommandService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CommandService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T09:47:55.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Program.cs",
+              "RelativeDocumentMoniker": "CommandService\\Program.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Program.cs",
+              "RelativeToolTip": "CommandService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:29:49.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Controllers\\PlatformController.cs",
+              "RelativeDocumentMoniker": "CommandService\\Controllers\\PlatformController.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\Controllers\\PlatformController.cs",
+              "RelativeToolTip": "CommandService\\Controllers\\PlatformController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:52:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\appsettings.json",
+              "RelativeDocumentMoniker": "CommandService\\appsettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\appsettings.json",
+              "RelativeToolTip": "CommandService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T09:47:34.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CommandService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\CommandService\\CommandService\\appsettings.Development.json",
+              "RelativeToolTip": "CommandService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T10:29:59.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

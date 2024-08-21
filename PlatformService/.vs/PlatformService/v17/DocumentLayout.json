@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\source\\repos\\PlatformService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\syncdataservices\\http\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\syncdataservices\\http\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\platformservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\platformservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|c:\\users\\drago\\source\\repos\\platformservice\\platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C42CF-203F-4FC4-A944-F544229D92BC}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Dockerfile",
+              "RelativeDocumentMoniker": "PlatformService\\Dockerfile",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Dockerfile",
+              "RelativeToolTip": "PlatformService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-20T13:36:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeToolTip": "PlatformService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:17:21.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlatformService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlatformService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:18:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\appsettings.Development.json",
+              "RelativeToolTip": "PlatformService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:17:27.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:11:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Controllers\\PlatformController.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Controllers\\PlatformController.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Controllers\\PlatformController.cs",
+              "RelativeToolTip": "PlatformService\\Controllers\\PlatformController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:16:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpCommandDataClient.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "RelativeDocumentMoniker": "PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "RelativeToolTip": "PlatformService\\SyncDataServices\\Http\\HttpCommandDataClient.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:15:47.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PlatformService\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:12:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatformService.csproj",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeDocumentMoniker": "PlatformService\\PlatformService.csproj",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeToolTip": "PlatformService\\PlatformService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T13:11:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformService",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeDocumentMoniker": "PlatformService\\PlatformService.csproj",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
+              "RelativeToolTip": "PlatformService\\PlatformService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T13:18:20.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
